@@ -1,6 +1,4 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+EE Portfolio by Richard Castrp
 
 
 Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
